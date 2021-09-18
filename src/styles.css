@@ -1,0 +1,22 @@
+.App {
+  padding: 2rem;
+  margin: auto;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #9ca3af;
+}
+
+#paragraph {
+  font-size: 0.9rem;
+}
+
+button {
+  padding: 0.5rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  width: 5rem;
+  cursor: pointer;
+}
